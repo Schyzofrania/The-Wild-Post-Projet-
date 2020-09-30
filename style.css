@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    padding: 4px;
+}
+
+header{
+    display: flex;
+}
+
+.header{
+    background-color: ivory;
+    width: 100%;
+    padding: 4px;
+    flex-direction: row;
+}
