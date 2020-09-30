@@ -14,7 +14,7 @@ h1{
 
 h2{
     font-family: 'MedievalSharp', cursive;
-    margin-left: 26%;
+    text-align: center;
 }
 
 p{
@@ -41,4 +41,15 @@ p{
     background-color: Black;   
     border: 0em; 
     border-radius: 6px 6px;
+}
+
+.ql{
+    width: 25%;
+    height: 350px;
+    border-right: 1px solid;
+}
+
+.wcs{
+    width: 50%;
+    height: 500px;
 }
