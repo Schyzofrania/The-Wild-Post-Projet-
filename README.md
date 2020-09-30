@@ -24,3 +24,11 @@ Massinta Ait Braham,
 Victor Bijot, 
 Nathan Machrouh.
 
+
+Les étapes de réalisation : 
+
+        - Création d'une maquette mobile 
+        - Création d'une maquette desktop
+        - Réalisation d'une structure de base HTML 
+        - Réalisation du contenu des articles 
+        - Intégration du contenu dans la structure HTML 
