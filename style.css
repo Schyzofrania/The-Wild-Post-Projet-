@@ -86,3 +86,11 @@ h3{
     width: 25%;
     height: 490px;
 }
+
+.banniere{
+    background-color: black;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
