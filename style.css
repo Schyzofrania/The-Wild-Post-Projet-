@@ -20,11 +20,13 @@ h2{
 .intro>p {
     font-size: 1.5em;
     text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 p{
     font-family: 'Cormorant Garamond', serif;
-
+    font-size: 18px;
     
 }
 
@@ -52,11 +54,30 @@ p{
 
 .ql{
     width: 25%;
-    height: 350px;
+    height: 470px;
     border-right: 1px solid;
+    padding: 6px;
 }
 
 .wcs{
     width: 50%;
-    height: 500px;
+    height: 470px;
+    border-right: 1px solid;
+    margin-right: 4px;
+    padding: 6px;
+}
+
+.articles{
+    display: flex;
+    justify-content: flex-start;
+}
+
+h3{
+    font-family: 'MedievalSharp', 'cursive';
+    text-align: center;
+    text-decoration: underline;
+}
+
+.wcs>h3{
+    font-size: 25px;
 }
