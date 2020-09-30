@@ -15,6 +15,14 @@ header{
 }
 
 .autors {
-    width: 100px;
-    height: 100px;
+    display: flex;
+    width: 150px;
+    height: 150px;
+}
+
+.separation{
+    width: 100%;
+    padding: 4px;
+    height: -4px;
+    background-color: Black;    
 }
