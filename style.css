@@ -13,3 +13,8 @@ header{
     padding: 4px;
     flex-direction: row;
 }
+
+.autors {
+    width: 100px;
+    height: 100px;
+}
