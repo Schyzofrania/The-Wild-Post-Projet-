@@ -1,7 +1,9 @@
 # The-Wild-Post-Projet-
 Projet Wild Code School 
 
-Présentation du Projet The Wild Post. 
+Présentation du Projet The Wild Post.
+
+Durée du Projet : du 29/09/2020 au 09/10/2020
 
 Ce projet a pour but de mettre en oeuvre nos toutes nouvelles capacités à :
 
@@ -34,3 +36,4 @@ Les étapes de réalisation :
         - Réalisation du contenu des articles 
         - Intégration du contenu dans la structure HTML 
         - Mise en page du Style CSS
+        - Création d'une page Git Hub 
