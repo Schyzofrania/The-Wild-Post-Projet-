@@ -15,7 +15,7 @@ Dans ce projet vous pourrez découvrir le Wild Post.
 
 Le Wild Post est un petit journal qui vous racontera l'histoire de la Wild Code School depuis l'arrivé de sa nouvelle promo HORIZON .
 
-Le Wild Post comprendra plusieurs articles en plus notamment sur la structure qui acceuille la Wild Code School à savoir le Quartier Libre, un article sur la journée d'intégration de la promotion Horizon, un article sur une journée type à la Wild Code School, une interview d'une entreprise qui entretient des liens avec la Wild Code School ainsi qu'un article de témoignage d'anciens Wilders et d'un Wilder de la promotion Horizon. 
+Le Wild Post comprendra plusieurs articles ,notamment sur la structure qui acceuille la Wild Code School à savoir le Quartier Libre, un article sur la journée d'intégration de la promotion Horizon, un article sur une journée type à la Wild Code School, une interview d'une entreprise qui entretient des liens avec la Wild Code School ainsi qu'un article de témoignage d'anciens Wilders et d'un Wilder de la promotion Horizon. 
 
 Bonne lecture. 
 
@@ -24,6 +24,7 @@ Massinta Ait Braham,
 Victor Bijot, 
 Nathan Machrouh.
 
+Pour la réalisation du Wild Post notre choix artistique c'est orienté vers un style ancien, nous avions à coeur de representé un journal ancien comme ceux que nos parents lisaient avant l'arrivé du numérique.
 
 Les étapes de réalisation : 
 
@@ -32,3 +33,4 @@ Les étapes de réalisation :
         - Réalisation d'une structure de base HTML 
         - Réalisation du contenu des articles 
         - Intégration du contenu dans la structure HTML 
+        - Mise en page du Style CSS

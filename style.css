@@ -54,14 +54,14 @@ p{
 
 .ql{
     width: 25%;
-    height: 470px;
+    height: 490px;
     border-right: 1px solid;
     padding: 6px;
 }
 
 .wcs{
     width: 50%;
-    height: 470px;
+    height: 490px;
     border-right: 1px solid;
     margin-right: 4px;
     padding: 6px;
@@ -80,4 +80,9 @@ h3{
 
 .wcs>h3{
     font-size: 25px;
+}
+
+.inte{
+    width: 25%;
+    height: 490px;
 }
