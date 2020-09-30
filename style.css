@@ -12,6 +12,11 @@ h1{
     
 }
 
+h2{
+    font-family: 'MedievalSharp', cursive;
+    margin-left: 310px;
+}
+
 .header{
     background-color: ivory;
     width: 100%;
