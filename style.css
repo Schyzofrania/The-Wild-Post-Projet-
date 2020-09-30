@@ -17,6 +17,10 @@ h2{
     margin-left: 310px;
 }
 
+p{
+    font-family: 'Cormorant Garamond', serif;
+}
+
 .header{
     background-color: ivory;
     width: 100%;
