@@ -87,10 +87,16 @@ h3{
     height: 490px;
 }
 
-.banniere{
+.banniere>img{
     background-color: black;
     width: 500px;
     display: flex;
     justify-content: center;
     margin: 0 auto;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    display: flex;
 }
