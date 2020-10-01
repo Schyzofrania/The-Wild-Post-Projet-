@@ -6,6 +6,11 @@ header{
     display: flex;
 }
 
+.date>p{
+    margin-top: 70%;
+    margin-bottom: 0%;
+}
+
 h1{
     font-size: 5em;
     font-family: 'MedievalSharp', cursive;
@@ -46,6 +51,7 @@ p{
 }
 
 .separation{
+    margin-top: 0%;
     padding: 4px;
     background-color: Black;   
     border: 0em; 
