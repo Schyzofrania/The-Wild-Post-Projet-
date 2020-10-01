@@ -31,8 +31,11 @@ Pour la réalisation du Wild Post notre choix artistique c'est orienté vers un 
 Les étapes de réalisation : 
 
         - Création d'une maquette mobile 
+                - La création de la maquette à été réalisé avec mokflow(logiciel gratuit de Wireframe)
         - Création d'une maquette desktop
+                - La création de la maquette dekstop a elle aussi été réalisé avec mockflow.
         - Réalisation d'une structure de base HTML 
+                -Nous avons utilisé comme IDE Visual Studio Code 
         - Réalisation du contenu des articles 
         - Intégration du contenu dans la structure HTML 
         - Mise en page du Style CSS
