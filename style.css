@@ -1,6 +1,5 @@
 body{
-    padding: 4px;
-<<<<<<< HEAD
+    padding: 0.3vw;
     background-image: url(Images/backiiiii.png);
     background-attachment: fixed;   
 }
@@ -19,23 +18,7 @@ header{
 h1{
     font-size: 5em;
     font-family: 'MedievalSharp', cursive;
-    
-}
-=======
-    background-image: url(Images/Sans\ titre-3.png);
-    background-attachment: fixed;   
-}
-
-body{     
-    padding: 0.3vw;     
-    background-image: url(Images/fond-papier-froisse-blanc_64749-1512.png); 
-}  
->>>>>>> 1e84733150c1d54869fa95d932ed4702bba5a59e
-
-header{
-    display: flex;     
-    background-image: url(Images/fond-papier-froisse-blanc_64749-1512.png); 
-}  
+}      
 
 .date>p{     
     margin-top: 10vw;     
