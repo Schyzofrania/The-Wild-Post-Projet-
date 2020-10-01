@@ -54,14 +54,14 @@ p{
 
 .ql{
     width: 25%;
-    height: 490px;
+    height: 600px;
     border-right: 1px solid;
     padding: 6px;
 }
 
 .wcs{
     width: 50%;
-    height: 490px;
+    height: 600px;
     border-right: 1px solid;
     margin-right: 4px;
     padding: 6px;
@@ -87,7 +87,7 @@ h3{
     height: 490px;
 }
 
-.banniere>img{
+.wcs>img{
     background-color: black;
     width: 500px;
     height: 200px;
