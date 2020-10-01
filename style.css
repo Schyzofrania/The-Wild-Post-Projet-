@@ -1,9 +1,11 @@
 body{
     padding: 4px;
+    background-image: url(Images/fond-papier-froisse-blanc_64749-1512.png);
 }
 
 header{
     display: flex;
+    background-image: url(Images/fond-papier-froisse-blanc_64749-1512.png);
 }
 
 .date>p{
