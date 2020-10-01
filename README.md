@@ -31,12 +31,15 @@ Pour la réalisation du Wild Post notre choix artistique c'est orienté vers un 
 Les étapes de réalisation : 
 
         - Création d'une maquette mobile 
-                - La création de la maquette à été réalisé avec mokflow(logiciel gratuit de Wireframe)
+                - La création de la maquette a été réalisé avec mokflow(logiciel gratuit de Wireframe)
         - Création d'une maquette desktop
-                - La création de la maquette dekstop a elle aussi été réalisé avec mockflow.
+                - La création de la maquette dekstop à elle aussi été réalisé avec mockflow.
         - Réalisation d'une structure de base HTML 
-                -Nous avons utilisé comme IDE Visual Studio Code 
+                -Nous avons utilisé comme IDE Visual Studio Code afin de réaliser le Wild Post
         - Réalisation du contenu des articles 
+                - Afin de réaliser le contenu de nos articles, nous avons éffectué quelques interviews 
+                notamment aupres de la responsable du site Quartier Libre, la société Attinéos, et aussi un wilder 
+                de la promotion Horizon et un d'une ancienne promotion.
         - Intégration du contenu dans la structure HTML 
         - Mise en page du Style CSS
         - Création d'une page Git Hub 
