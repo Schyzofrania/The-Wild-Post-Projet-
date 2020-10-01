@@ -42,4 +42,7 @@ Les étapes de réalisation :
                 de la promotion Horizon et un d'une ancienne promotion.
         - Intégration du contenu dans la structure HTML 
         - Mise en page du Style CSS
+                - Utilisation des flexbox
+                - Responsive design
+                - Utilisation d'un background image papier froissé pour rendu journal authentique
         - Création d'une page Git Hub 
