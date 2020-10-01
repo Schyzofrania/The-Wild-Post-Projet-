@@ -1,5 +1,6 @@
 body{
     padding: 4px;
+<<<<<<< HEAD
     background-image: url(Images/backiiiii.png);
     background-attachment: fixed;   
 }
@@ -20,24 +21,47 @@ h1{
     font-family: 'MedievalSharp', cursive;
     
 }
-
-h2{
-    font-family: 'MedievalSharp', cursive;
-    text-align: center;
-    font-size: 3em;
+=======
+    background-image: url(Images/Sans\ titre-3.png);
+    background-attachment: fixed;   
 }
 
-.intro>p {
-    font-size: 1.5em;
-    text-align: center;
-    margin-bottom: 30px;
-    font-family: 'Cormorant Garamond', serif;
-}
+body{     
+    padding: 0.3vw;     
+    background-image: url(Images/fond-papier-froisse-blanc_64749-1512.png); 
+}  
+>>>>>>> 1e84733150c1d54869fa95d932ed4702bba5a59e
 
-p{
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 18px;
-    
+header{
+    display: flex;     
+    background-image: url(Images/fond-papier-froisse-blanc_64749-1512.png); 
+}  
+
+.date>p{     
+    margin-top: 10vw;     
+    margin-bottom: 0vw; 
+}  
+
+h1{     
+    font-size: 4vw;     
+    font-family: 'MedievalSharp', cursive;      
+}  
+
+h2{     
+    font-family: 'MedievalSharp', cursive;     
+    text-align: center;     
+    font-size: 3vw; 
+}  
+
+.intro>p {     
+    font-size: 1.5vw;     
+    text-align: center;     
+    margin-bottom: 1.5vw;     
+    font-family: 'Cormorant Garamond', serif; 
+}  
+p{     
+    font-family: 'Cormorant Garamond', serif;     
+    font-size: 1.1vw;      
 }
 
 .header{
