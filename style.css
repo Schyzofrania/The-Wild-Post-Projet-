@@ -31,7 +31,7 @@
         font-size: 1.5vw;     
         text-align: center;     
         margin-bottom: 1.5vw;     
-    font-family: 'Cormorant Garamond', serif; 
+        font-family: 'Cormorant Garamond', serif; 
     }  
     p{     
         font-family: 'Cormorant Garamond', serif;     
@@ -146,7 +146,7 @@
 }
 
 
-@media (max-width:320px){
+@media (max-width:375px){
     body{
         background-image: url(Images/backiiiii.png);
     }
@@ -163,16 +163,35 @@
     }
     .wildpost>h1{
         font-size: 5vh;
+        text-align: center;
+        font-family: 'MedievalSharp', cursive; 
     }
     .autors>p{
         font-size: 2vh;
+        font-family: 'MedievalSharp', cursive;
     }
     .date{
-        display: flex;
-        
+        display: flex;        
     }
     .date>p{
         font-size: 2vh;
+        font-family: 'MedievalSharp', cursive;
+    }
+
+    h2{     
+        font-family: 'MedievalSharp', cursive;     
+        text-align: center;     
+        font-size: 30px; 
+    } 
+    p{
+        font-family: 'MedievalSharp', cursive;
+    }
+    .intro>p{
+        text-align: center;
+    }
+    .banniere>img{
+        margin-left: -40px;
+        
     }
 
 }
