@@ -46,3 +46,4 @@ Les étapes de réalisation :
                 - Responsive design
                 - Utilisation d'un background image papier froissé pour rendu journal authentique
         - Création d'une page Git Hub 
+                - Alimentation du repertoire Git Hub à chaque étape
