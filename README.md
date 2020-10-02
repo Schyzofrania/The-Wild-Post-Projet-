@@ -41,6 +41,10 @@ Les étapes de réalisation :
                 notamment aupres de la responsable du site Quartier Libre, la société Attinéos, et aussi un wilder 
                 de la promotion Horizon et un d'une ancienne promotion.
         - Intégration du contenu dans la structure HTML 
+                - Ajout Images
+                - Modification Images
+                - Ajout bannière
+                - Ajout des articles
         - Mise en page du Style CSS
                 - Utilisation des flexbox
                 - Responsive design
