@@ -121,13 +121,32 @@ img:hover{
     justify-content: space-around;
 }
 
-@media (min-width:100px) and (max-width:320px){
+.temoi{
+    width: 50%;
+    height: 0 auto;
+}
+
+@media (max-width:320px){
     header{
        height: 100vh;
        width: 100vw; 
     }
     .wildpost{
+
         margin: auto;
-        font-size: 100vh;
     }
+    .wildpost>h1{
+        font-size: 5vh;
+    }
+    .autors>p{
+        font-size: 2vh;
+    }
+    .date{
+        display: flex;
+        
+    }
+    .date>p{
+        font-size: 2vh;
+    }
+
 }
