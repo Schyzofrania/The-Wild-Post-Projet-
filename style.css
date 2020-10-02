@@ -66,6 +66,12 @@ p{
     padding: 1vh;
 }
 
+.ql>img{
+    width: 30%;
+    height: 30%;
+    margin-left: 30%;
+}
+
 .wcs{
     width: 50%;
     height: 50vh;
