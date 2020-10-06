@@ -159,7 +159,7 @@
         justify-content: space-between;
     }
 
-    .logowild{
+    .logopost{
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -228,12 +228,18 @@
         margin-left: auto;
         margin-right: auto;
         width: 55%;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
     .damien{
         width: 30%;
         height: 15%;
         margin-left: 33%;
+    }
+    .logopost{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 50%;
+        width: 30%;
     }
 }
 
@@ -328,7 +334,13 @@
         margin-left: auto;
         margin-right: auto;
         width: 55%;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .logopost{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 50%;
+        width: 50%;
     }
     .damien{
         width: 27%;
