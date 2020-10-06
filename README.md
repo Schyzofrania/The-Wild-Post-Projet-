@@ -26,7 +26,7 @@ Massinta Ait Braham,
 Victor Bijot, 
 Nathan Machrouh.
 
-Pour la réalisation du Wild Post notre choix artistique c'est orienté vers un style ancien, nous avions à coeur de representé un journal ancien comme ceux que nos parents lisaient avant l'arrivé du numérique.
+Pour la réalisation du Wild Post notre choix artistique c'est orienté vers un style ancien, nous avions à coeur de representer un journal ancien comme ceux que nos parents lisaient avant l'arrivé du numérique.
 
 Les étapes de réalisation : 
 
