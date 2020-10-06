@@ -145,6 +145,58 @@
     }
 }
 
+@media (max-width: 1100px){
+    body{
+        background-image: url(Images/backiiiii.png);
+        font-family: 'MedievalSharp', cursive;
+    }
+    .articles, .photo, .lastarticle{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    } 
+    .photo{
+        text-align: center;
+    }
+    .ql, .wcs, .inte{
+        width: 80%;
+        border-right: none;
+        margin-bottom: 35px;
+    }
+    .ql>p{
+        font-size: 20px;
+    }
+    .ql>img{
+        width: auto;
+        height: auto;
+    }
+    .wcs>p{
+        font-size: 20px;
+    }
+    .inte>p{
+        font-size: 20px;
+    }
+    img{
+        width: 60%;
+        height: 75%;
+    }
+    .banniere>img{
+        width: 100%;
+        height: 45%;
+    }
+    h1{
+        text-align: center;
+    }
+    .date{
+        text-align: right;
+    }
+    h2{
+        text-align: center;
+    }
+    .intro{
+        text-align: center;
+    }
+}
 
 @media (max-width:375px){
     body{
@@ -153,13 +205,16 @@
     header{
         background-image: url(Images/backiiiii.png);
        height: 100vh;
-       width: 100vw; 
+       width: 100%; 
        display: flex;
        flex-direction: column;
     }
     .wildpost{
 
         margin: auto;
+    }
+    .autors{
+        margin-top: 0px;
     }
     .wildpost>h1{
         font-size: 5vh;
@@ -192,25 +247,42 @@
     .banniere>img{
         height: 130%;
         width: 100%;
-        margin-left: 8px;
+        filter: grayscale(0);
         
     }
     .wcs>img{
         width: 70%;
         height: 75%;
-        margin-left: 15%;
     }
     .ql>img{
         width: 70%;
         height: 75%;
-        margin-left: 15%;
+    }
+    .photo{
+        display: flex;
+        flex-direction: column;
+        margin-left: auto;
     }
     img{
         width: 75%;
         height: 85%;
-        display: flex;
         margin-bottom: 35px;
-        margin-left: 45px;
+        filter: grayscale(1);
+    }
+    img:hover{
+        filter: grayscale(0);
+    }
+    .wcs{
+        width: 100%;
+        order: 1;
+    }
+    .ql{
+        width: 100%;
+        order: 2;
+    }
+    .inte{
+        width: 100%;
+        order: 3;
     }
 
 }
