@@ -348,7 +348,7 @@
     .fabrice{
         height: 35%;
         width: 30%;
-        margin-left: 38%;
+        margin-left: 40%;
         border-radius: 8px;
     }
     .logopost{
@@ -403,6 +403,13 @@
     }
     a{
         color: black;
+    }
+    .imagefoot{
+        height: 25%;
+        width: 35%;
+        margin-left: 40%;
+        border-radius: 8px;
+        margin-top: 10%;
     }
 }
 
@@ -564,5 +571,11 @@
     }
     a{
         color: black;
+    }
+    .imagefoot{
+        height: 23%;
+        width: 50%;
+        margin-left: 25%;
+        border-radius: 8px;
     }
 }
