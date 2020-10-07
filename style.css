@@ -163,11 +163,14 @@
         width: 50%;
         height: 0 auto;
         border-right: 1px solid;
+        border-bottom: 1px solid;
     }
     .temoi2{
         width: 50%;
         height: 0 auto;
         margin-left: 5px;
+        border-bottom: 1px solid;
+        padding: 0%;
     }
     
     .interview{
@@ -198,6 +201,22 @@
     figcaption{
         text-align: center;
         font-family: 'MedievalSharp', cursive; 
+    }
+    .footer{
+        display: flex;
+        justify-content: center;
+        margin-top: 35px;
+    }
+    li{
+        list-style-type: none;
+        text-align: center;
+        text-decoration: black;
+    }
+    li>p{
+        color: black;
+    }
+    a{
+        color: black;
     }
 
 }
@@ -321,6 +340,22 @@
         height: 65%;
         margin-left: 25%;
         border-radius: 30%;
+    }
+    .footer{
+        display: flex;
+        justify-content: center;
+        margin-top: 35px;
+    }
+    li{
+        list-style-type: none;
+        text-align: center;
+        text-decoration: black;
+    }
+    li>p{
+        color: black;
+    }
+    a{
+        color: black;
     }
 }
 
@@ -465,5 +500,21 @@
         height: 65%;
         margin-left: 25%;
         border-radius: 30%;
+    }
+    .footer{
+        display: flex;
+        justify-content: center;
+        margin-top: 35px;
+    }
+    li{
+        list-style-type: none;
+        text-align: center;
+        text-decoration: black;
+    }
+    li>p{
+        color: black;
+    }
+    a{
+        color: black;
     }
 }
