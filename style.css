@@ -339,7 +339,7 @@
     .damien{
         width: 30%;
         height: 15%;
-        margin-left: 33%;
+        margin-left: 38%;
         margin-bottom: 2%;
         margin-top: 2%;
         border-radius: 8px;
@@ -347,7 +347,7 @@
     .fabrice{
         height: 35%;
         width: 30%;
-        margin-left: 33%;
+        margin-left: 38%;
         border-radius: 8px;
     }
     .logopost{
@@ -556,6 +556,7 @@
         list-style-type: none;
         text-align: center;
         text-decoration: black;
+        margin-right: 20%;
     }
     li>p{
         color: black;

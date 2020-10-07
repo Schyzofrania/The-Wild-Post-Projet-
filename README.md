@@ -45,6 +45,8 @@ Les étapes de réalisation :
                 - Modification Images
                 - Ajout bannière
                 - Ajout des articles
+                - Ajout du footer
+                - Ajout de liens profil Linkedin
         - Mise en page du Style CSS
                 - Utilisation des flexbox
                 - Responsive design
@@ -52,3 +54,4 @@ Les étapes de réalisation :
                 - Ajout du @Media Query afin d'activer le responsive
         - Création d'une page Git Hub 
                 - Alimentation du repertoire Git Hub à chaque étape
+        - Création d'un Power Point de présentation.        
