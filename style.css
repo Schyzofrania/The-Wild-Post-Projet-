@@ -238,6 +238,8 @@
         width: 30%;
         height: 15%;
         margin-left: 33%;
+        margin-bottom: 2%;
+        margin-top: 2%;
     }
     .logopost{
         display: block;
@@ -245,6 +247,9 @@
         margin-right: auto;
         height: 50%;
         width: 30%;
+    }
+    .logoquartierlibre{
+        margin-left: 15%;
     }
 }
 
@@ -325,6 +330,9 @@
     .wcs{
         width: 100%;
         order: 1;
+    }
+    .logoquartierlibre{
+        margin-left: 15%;
     }
     .ql{
         width: 100%;
