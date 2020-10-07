@@ -295,7 +295,7 @@
         border-radius: 50%;
     }
     .logoquartierlibre{
-        margin-left: 15%;
+        margin-left: 28%;
     }
     hr {
         border: none;
@@ -314,6 +314,12 @@
     }
     p{
         font-family: 'Cormorant Garamond', serif;
+    }
+    .logointe{
+        width: 45%;
+        height: 65%;
+        margin-left: 25%;
+        border-radius: 30%;
     }
 }
 
@@ -451,5 +457,10 @@
     p{
         font-family: 'Cormorant Garamond', serif;
     }
-
+    .logointe{
+        width: 45%;
+        height: 65%;
+        margin-left: 25%;
+        border-radius: 30%;
+    }
 }
