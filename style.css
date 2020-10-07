@@ -186,6 +186,7 @@
         width: 30%;
         margin-left: 33%;
         margin-top: 5%;
+        border-radius: 8px;
     }
     figcaption{
         text-align: center;
@@ -265,11 +266,13 @@
         margin-left: 33%;
         margin-bottom: 2%;
         margin-top: 2%;
+        border-radius: 8px;
     }
     .fabrice{
         height: 35%;
         width: 30%;
         margin-left: 33%;
+        border-radius: 8px;
     }
     .logopost{
         display: block;
@@ -277,6 +280,7 @@
         margin-right: auto;
         height: 50%;
         width: 30%;
+        border-radius: 50%;
     }
     .logoquartierlibre{
         margin-left: 15%;
@@ -399,16 +403,19 @@
         margin-right: auto;
         height: 50%;
         width: 50%;
+        border-radius: 50%;
     }
     .damien{
         width: 40%;
         height: 15%;
         margin-left: 25%;
+        border-radius: 8px;
     }
     .fabrice{
         height: 40%;
         width: 50%;
         margin-left: 25%;
+        border-radius: 8px;
     }
     hr {
         border: none;
