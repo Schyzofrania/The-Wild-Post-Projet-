@@ -101,6 +101,13 @@
         margin-left: 35%;
     }
 
+    .logointe{
+        width: 45%;
+        height: 65%;
+        margin-left: 25%;
+        border-radius: 30%;
+    }
+
     .articles{
         display: flex;
         justify-content: flex-start;
