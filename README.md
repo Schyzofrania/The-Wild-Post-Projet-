@@ -49,6 +49,7 @@ Les étapes de réalisation :
                 - Ajout de liens profil Linkedin
         - Mise en page du Style CSS
                 - Utilisation des flexbox
+                - Ajout de style dans la feuille CSS
                 - Responsive design
                 - Utilisation d'un background image papier froissé pour rendu journal authentique
                 - Ajout du @Media Query afin d'activer le responsive
