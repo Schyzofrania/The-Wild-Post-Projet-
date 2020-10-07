@@ -13,13 +13,14 @@
     }
 
     .date>p{
-        margin-top: 23vw;
+        margin-top: 35vw;
         margin-bottom: 0%;
     }
 
     h1{         
         font-size: 4vw;     
-        font-family: 'MedievalSharp', cursive;      
+        font-family: 'MedievalSharp', cursive;
+        margin-left: 45%;     
     }  
 
     h2{     
@@ -59,19 +60,17 @@
         color: #333;
         overflow: visible;
         text-align: center;
-        text-decoration: white;
         font-weight: bold;
-        height: 5px;
-        
-        
+        height: 5px;   
     }
     hr:after {
         background: black;
-        content: 'WILD POST';
+        content: 'W.P';
         padding: 0 4px;
         position: relative;
         top: -13px;
-        
+        border: solid;
+        background-image: url(Images/backiiiii.png);
     }
 
     .ql{
@@ -307,10 +306,12 @@
         height: 4px;
     }
     hr:after {
-        content: 'WILD POST';
+        content: 'W.P';
         padding: 0 4px;
         position: relative;
         top: -13px;
+        border: solid;
+        background-image: url(Images/backiiiii.png);
     }
     p{
         font-family: 'Cormorant Garamond', serif;
@@ -449,10 +450,12 @@
         height: 4px;
     }
     hr:after {
-        content: 'WILD POST';
+        content: 'W.P';
         padding: 0 4px;
         position: relative;
-        top: -13px;
+        top: -13px;border: solid;
+        background-image: url(Images/backiiiii.png);
+
     }
     p{
         font-family: 'Cormorant Garamond', serif;
