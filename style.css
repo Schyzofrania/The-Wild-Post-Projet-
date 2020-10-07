@@ -52,12 +52,25 @@
         height: 10vh;
     }
 
-    .separation{
-        margin-top: 0%;
-        padding: 0.4vw;
-        background-color: Black;   
-        border: 0em; 
-        border-radius: 6px 6px;
+    hr {
+        border: none;
+        border-top: 5px double #333;
+        color: #333;
+        overflow: visible;
+        text-align: center;
+        text-decoration: white;
+        font-weight: bold;
+        height: 5px;
+        
+        
+    }
+    hr:after {
+        background: black;
+        content: 'WILD POST';
+        padding: 0 4px;
+        position: relative;
+        top: -13px;
+        
     }
 
     .ql{
@@ -91,6 +104,7 @@
         display: flex;
         justify-content: flex-start;
         width: 97.6vw;
+        border-bottom: 10%;
     }
 
     h3{
@@ -133,11 +147,6 @@
         filter: grayscale(0);
     }
 
-    hr{
-        height: 0.1vh;
-        background-color: black;
-    }
-
     .photo{
         display: flex;
         justify-content: space-around;
@@ -161,15 +170,16 @@
 
     .logopost{
         display: block;
-        margin-left: auto;
+        margin-left: 40%;
         margin-right: auto;
         width: 55%;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 50%;
     }
     .damien{
         height: 35%;
         width: 25%;
         margin-left: 35%;
+        border-radius: 8px;
     }
     .fabrice{
         height: 35%;
@@ -270,6 +280,21 @@
     }
     .logoquartierlibre{
         margin-left: 15%;
+    }
+    hr {
+        border: none;
+        border-top: 5px double #333;
+        color: #333;
+        overflow: visible;
+        text-align: center;
+        font-weight: bold;
+        height: 4px;
+    }
+    hr:after {
+        content: 'WILD POST';
+        padding: 0 4px;
+        position: relative;
+        top: -13px;
     }
 }
 
@@ -384,6 +409,21 @@
         height: 40%;
         width: 50%;
         margin-left: 25%;
+    }
+    hr {
+        border: none;
+        border-top: 5px double #333;
+        color: #333;
+        overflow: visible;
+        text-align: center;
+        font-weight: bold;
+        height: 4px;
+    }
+    hr:after {
+        content: 'WILD POST';
+        padding: 0 4px;
+        position: relative;
+        top: -13px;
     }
 
 }
