@@ -147,7 +147,8 @@
         width: 25vw;    
         height: 30vh;
         display: flex;
-        filter: grayscale(1);   
+        filter: grayscale(1);
+        border-radius:8px ;   
     }
 
     img:hover{
