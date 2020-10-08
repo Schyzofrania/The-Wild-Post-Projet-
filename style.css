@@ -13,14 +13,14 @@
     }
 
     .date>p{
-        margin-top: 35vw;
+        margin-top: none;
         margin-bottom: 0%;
     }
 
     h1{         
         font-size: 4vw;     
         font-family: 'MedievalSharp', cursive;
-        margin-left: 45%;     
+        margin-right: 20%;     
     }  
 
     h2{     
@@ -28,6 +28,24 @@
         text-align: center;     
         font-size: 3vw; 
     }  
+    .banniere1{
+        display: flex;
+        margin-top: 12%;
+        margin-left: 10%;
+        width: 100%;
+        height: auto;
+        margin-left: none;
+        align-items: center;
+        flex-direction: row-reverse;
+        background-color: blueviolet;
+    }
+    .banniere1>img{
+        width: 10%;
+        height: auto;
+        align-items: center;
+        margin-right: none;
+        margin-top: 2%;
+    }
 
     .intro>p {     
         font-size: 1.5vw;     
@@ -203,11 +221,8 @@
     }
     .footer{
         display: flex;
-        margin-top: 35px;
-        align-items: baseline;
-        
+        height: 300px;       
     }
-
     .container {
         display: flex;
         width: 50%;
@@ -254,8 +269,11 @@
     }
 
     .imagefoot{
-          width: 50%;
+          width: 10%;
+          height: 70%;
           border-radius: 8%;
+          align-items: center;
+          margin-top: 30px;
     }
     .lastarticle{
         text-align: center;
