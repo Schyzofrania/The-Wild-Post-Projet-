@@ -242,6 +242,12 @@
     .lien{
         font-size: 150%;
         margin-left: 110%;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:visited{
+        color: black;
         text-decoration: none;
     }
     .lastarticle{
