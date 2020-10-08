@@ -1,7 +1,7 @@
 @media (min-width: 1100px){
     body{
         margin: 0.3vw;
-        padding: 0.3vw;
+        padding: 16px;
         background-image: url(Images/backiiiii.png);
         background-attachment: fixed;
         font-family: 'MedievalSharp', cursive;   
@@ -58,7 +58,7 @@
     }  
     p{     
         font-family: 'Cormorant Garamond', serif;     
-        font-size: 1.06vw;      
+        font-size: 1.10vw;      
     }
 
     .header{
@@ -88,15 +88,15 @@
     hr:after {
         background: black;
         content: 'W.P';
-        padding: 0 4px;
+        padding: 0 0px;
         position: relative;
-        top: -13px;
+        top: -18px;
         border: solid;
         background-image: url(Images/backiiiii.png);
     }
 
     .ql{
-        width: 30%;
+        width: 25%;
         height: 67.8vh;
         border-right: 1px solid;
         padding: 1vh;
