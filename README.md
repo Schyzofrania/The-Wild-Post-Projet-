@@ -52,7 +52,12 @@ Les étapes de réalisation :
                 - Ajout de style dans la feuille CSS
                 - Responsive design
                 - Utilisation d'un background image papier froissé pour rendu journal authentique
+                - Ajout d'un logo personnalisé 
                 - Ajout du @Media Query afin d'activer le responsive
         - Création d'une page Git Hub 
                 - Alimentation du repertoire Git Hub à chaque étape
-        - Création d'un Power Point de présentation.        
+        - Création d'un Power Point de présentation. 
+                - Réalisation des screens afin d'alimenter le Power Point
+                - Réalisation des diapositives
+                - Réalisation du contenu des diapositives
+                - Remerciements         
