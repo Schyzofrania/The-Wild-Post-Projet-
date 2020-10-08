@@ -176,6 +176,7 @@
     .photo{
         display: flex;
         justify-content: space-around;
+        width: 100%;
     }
 
     .temoi{
@@ -233,19 +234,15 @@
         width: 35%;
         height: 65%;
         margin-left: 30%;
-    }
-    .footer>img{
-        width: 80%;
-        height: 80%;
-        margin-left: 0;
-    }
+        border-radius: 8px;
+    } 
     .logo{
           width: 25%;
           height: 25%;
     }
     .photo>img{
-        width: 65%;
-        height: 60%;
+        width: 85%;
+        height: 85%;
         margin-left: 19%;
         border-radius: 8px;
     }
