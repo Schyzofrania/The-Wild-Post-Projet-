@@ -332,6 +332,7 @@
         margin-left: auto;
         margin-right: auto;
         width: 55%;
+        height: auto;
     }
     .damien{
         width: 30%;
@@ -357,6 +358,7 @@
     }
     .logoquartierlibre{
         margin-left: 28%;
+        height: auto;
     }
     hr {
         border: none;
@@ -380,7 +382,7 @@
     }
     .logointe{
         width: 45%;
-        height: 65%;
+        height: auto;
         margin-left: 25%;
         border-radius: 30%;
     }
