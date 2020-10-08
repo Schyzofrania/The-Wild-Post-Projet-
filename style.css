@@ -80,7 +80,8 @@
         overflow: visible;
         text-align: center;
         font-weight: bold;
-        height: 5px;   
+        height: 5px; 
+        margin-top: 0%;
     }
     hr:after {
         background: black;
@@ -93,16 +94,18 @@
     }
 
     .ql{
-        width: 25%;
-        height: 65vh;
+        width: 30%;
+        height: 67.8vh;
         border-right: 1px solid;
         padding: 1vh;
+        padding-bottom: 0%;
     }
 
     .ql>img{
         width: 30%;
         height: auto;
         margin-left: 30%;
+        margin-bottom: 0%;
     }
 
     .wcs{   
@@ -130,7 +133,6 @@
         display: flex;
         justify-content: flex-start;
         width: 97.6vw;
-        border-bottom: 10px;
     }
 
     h3{
@@ -188,7 +190,7 @@
         width: 50%;
         height: auto;
         margin-left: 5px;
-        padding: 0%;
+        padding: 0.5%;
     }
     
     .interview{
@@ -590,9 +592,10 @@
         color: black;
     }
     .imagefoot{
-        height: 23%;
-        width: 50%;
-        margin-left: 25%;
+        height: 30%;
+        width: 30%;
+        margin-left: 15%;
         border-radius: 8px;
+        column-count: 2;
     }
 }
