@@ -100,7 +100,7 @@
 
     .ql>img{
         width: 30%;
-        height: 30%;
+        height: auto;
         margin-left: 30%;
     }
 
@@ -114,13 +114,13 @@
 
     .wcs>img{
         width: 25%;
-        height: 20%;
+        height: auto;
         margin-left: 35%;
     }
 
     .logointe{
         width: 45%;
-        height: 65%;
+        height: auto;
         margin-left: 25%;
         border-radius: 30%;
     }
