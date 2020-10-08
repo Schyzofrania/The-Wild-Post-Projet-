@@ -11,6 +11,7 @@
         display: flex;
         background-attachment: fixed;  
     }
+
     .date>p{
         margin-top: none;
         margin-bottom: 0%;
@@ -21,13 +22,8 @@
         font-family: 'MedievalSharp', cursive;
         margin-right: 20%;     
     }  
-    text {
-        display: flex;
-        flex-direction: row;
-    }
 
-    h2{   
-        width: 100%;  
+    h2{     
         font-family: 'MedievalSharp', cursive;     
         text-align: center;     
         font-size: 3vw; 
@@ -40,7 +36,6 @@
         height: auto;
         align-items: center;
         flex-direction: row-reverse;
-        margin-bottom: 45px;
     }
     .banniere1>img{
         width: 10%;
@@ -230,55 +225,24 @@
     }
     .container {
         display: flex;
-        width: 50%;
-        flex-direction: row; 
+        width: 75%;
+        flex-direction: row;
+        margin-left: 0; 
       }
-    .container>.imagefoot{
-        width: 25%;
-        margin-left: 20%;
-    }  
-      
-    .image {
-        opacity: 1;
-        display: block;
-        width: 30%;
-        height: auto;
-        transition: .5s ease;
-        backface-visibility: hidden;   
-    }
-      
-    .middle {
-        transition: .5s ease;
-        opacity: 0;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        -ms-transform: translate(-50%, -50%);
-    }
-      
-    .container:hover .middle {
-        opacity: 1;
-    }
-      
-    .text {
-        background-color:transparent;
-        color: white;
-        font-size: 16px;
-        padding: 16px 32px;
-    }
-
     .logo{
           width: 25%;
           height: 25%;
     }
-
-    .imagefoot{
-          width: 10%;
-          height: 70%;
-          border-radius: 8%;
-          align-items: center;
-          margin-top: 30px;
+    figure>img{
+        width: 65%;
+        height: 60%;
+        margin-left: 100%;
+        border-radius: 8px;
+    }
+    .lien{
+        font-size: 150%;
+        margin-left: 110%;
+        text-decoration: none;
     }
     .lastarticle{
         text-align: center;
