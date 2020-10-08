@@ -221,27 +221,37 @@
     }
     .footer{
         display: flex;
-        height: 300px;       
+        height: 100%;       
     }
     .container {
         display: flex;
-        width: 75%;
+        width: 70%;
         flex-direction: row;
         margin-left: 0; 
-      }
+    }
+    .container>figure{
+        width: 30%;
+        height: 10%;
+        margin-left: 0;
+    }
+    .footer>img{
+        width: 80%;
+        height: 80%;
+        margin-left: 0;
+    }
     .logo{
           width: 25%;
           height: 25%;
     }
-    figure>img{
+    .photo>img{
         width: 65%;
         height: 60%;
-        margin-left: 100%;
+        margin-left: 19%;
         border-radius: 8px;
     }
     .lien{
         font-size: 150%;
-        margin-left: 110%;
+        margin-left: 0%;
     }
     a{
         text-decoration: none;
