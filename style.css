@@ -82,7 +82,7 @@
     }
     hr:after {
         background: black;
-        content: 'W.P';
+        content: 'W.P.';
         padding: 0 0px;
         position: relative;
         top: -18px;
@@ -373,7 +373,7 @@
         height: 4px;
     }
     hr:after {
-        content: 'W.P';
+        content: 'W.P.';
         padding: 0 4px;
         position: relative;
         top: -13px;
@@ -549,7 +549,7 @@
         height: 4px;
     }
     hr:after {
-        content: 'W.P';
+        content: 'W.P.';
         padding: 0 4px;
         position: relative;
         top: -13px;border: solid;
